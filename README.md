@@ -1,4 +1,5 @@
-### Pizza Sales Analysis - SQL
+### Pizza-Sales
+MYSQL Pizza Sales Project
 
 ## Project Overview
 As an aspiring Data Analyst, this project was created to analyze pizza sales data using SQL. The objective was to develop and showcase proficiency in data manipulation and analysis to derive actionable business insights. By leveraging SQL, this project demonstrates the ability to handle real-world datasets and uncover valuable patterns for strategic decision-making.
@@ -18,18 +19,11 @@ The comprehensive nature of the data enabled exploration of customer preferences
 ---
 
 ## Analysis Objectives
-The project aimed to address the following business questions using SQL queries:
-1. Retrieve the total number of orders placed.
-2. Calculate the total revenue generated from pizza sales.
-3. Identify the highest-priced pizza.
-4. Determine the most common pizza size ordered.
-5. List the top 5 most ordered pizza types along with quantities.
-6. Analyze category-wise distribution of pizzas.
-7. Investigate ordering patterns based on time of day.
-8. Calculate average pizzas ordered per day.
-9. Identify top-performing pizza types by revenue.
-10. Evaluate the contribution of each pizza type to total revenue.
-11. Analyze cumulative revenue growth over time.
+- **Peak Sales Analysis:** Identify peak sales hours/days to optimize staffing and resource allocation.
+- **Trending Pizza Types and Toppings:** Determine the most popular pizza types and toppings among customers.
+- **Regional Analysis:** Analyze sales patterns across different regions to identify potential market trends and regional preferences.
+- **Revenue Insights:** Gain insights into revenue trends over time and identify opportunities for revenue growth.
+
 
 ---
 
